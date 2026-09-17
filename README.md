@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EsCape21xyz
+- 👋 Hi, I’m Lakshay Grover
 - 👀 I’m interested in playing video games
 - 🌱 I’m currently learning Python
 
